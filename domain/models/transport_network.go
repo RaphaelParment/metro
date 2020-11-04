@@ -6,11 +6,11 @@ import (
 	"log"
 )
 
-type Network struct {
+type TransportNetwork struct {
 	Stations []*Station
 }
 
-func NewNetwork(input *csv.Reader) (*Network, error) {
+func NewTransportNetwork(input *csv.Reader) (*TransportNetwork, error) {
 	var stations []*Station
 	for {
 		record, err := input.Read()
@@ -27,7 +27,7 @@ func NewNetwork(input *csv.Reader) (*Network, error) {
 		stations = append(stations, s)
 	}
 
-	n := Network{
+	n := TransportNetwork{
 		Stations: stations,
 	}
 
