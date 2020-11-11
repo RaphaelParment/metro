@@ -1,0 +1,806 @@
+2020/11/11 21:41:18 name: Oberkampf -> lines [5 9]
+2020/11/11 21:41:18 	n0 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 	n1 -> Richard-Lenoir ([5])
+2020/11/11 21:41:18 	n2 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 	n3 -> Saint-Ambroise ([9])
+2020/11/11 21:41:18 name: Daumesnil -> lines [6 8]
+2020/11/11 21:41:18 	n0 -> Dugommier ([6])
+2020/11/11 21:41:18 	n1 -> Bel-Air ([6])
+2020/11/11 21:41:18 	n2 -> Montgallet ([8])
+2020/11/11 21:41:18 	n3 -> Michel Bizot ([8])
+2020/11/11 21:41:18 name: Saint-Mande -> lines [1]
+2020/11/11 21:41:18 	n0 -> Porte de Vincennes ([1])
+2020/11/11 21:41:18 	n1 -> Berault ([1])
+2020/11/11 21:41:18 name: Assemblee nationale -> lines [12]
+2020/11/11 21:41:18 	n0 -> Concorde ([1 8 12])
+2020/11/11 21:41:18 	n1 -> Solferino ([12])
+2020/11/11 21:41:18 name: Rue du Bac -> lines [12]
+2020/11/11 21:41:18 	n0 -> Solferino ([12])
+2020/11/11 21:41:18 	n1 -> Sevres - Babylone ([10 12])
+2020/11/11 21:41:18 name: Jules Joffrin -> lines [12]
+2020/11/11 21:41:18 	n0 -> Marcadet - Poissonniers ([4 12])
+2020/11/11 21:41:18 	n1 -> Lamarck - Caulaincourt ([12])
+2020/11/11 21:41:18 name: Marcel Sembat -> lines [9]
+2020/11/11 21:41:18 	n0 -> Billancourt ([9])
+2020/11/11 21:41:18 	n1 -> Porte de Saint-Cloud ([9])
+2020/11/11 21:41:18 name: Belleville -> lines [2 11]
+2020/11/11 21:41:18 	n0 -> Colonel Fabien ([2])
+2020/11/11 21:41:18 	n1 -> Couronnes ([2])
+2020/11/11 21:41:18 	n2 -> Pyrenees ([11])
+2020/11/11 21:41:18 	n3 -> Goncourt ([11])
+2020/11/11 21:41:18 name: Cite -> lines [4]
+2020/11/11 21:41:18 	n0 -> Chatelet ([1 4 11 14])
+2020/11/11 21:41:18 	n1 -> Saint-Michel ([4])
+2020/11/11 21:41:18 name: Edgar Quinet -> lines [6]
+2020/11/11 21:41:18 	n0 -> Montparnasse - Bienvenue ([4 6 12])
+2020/11/11 21:41:18 	n1 -> Raspail ([4 6])
+2020/11/11 21:41:18 name: Creteil - Prefecture -> lines [8]
+2020/11/11 21:41:18 	n0 -> Creteil - Universite ([8])
+2020/11/11 21:41:18 name: Jourdain -> lines [11]
+2020/11/11 21:41:18 	n0 -> Place des Fêtes ([11])
+2020/11/11 21:41:18 	n1 -> Pyrenees ([11])
+2020/11/11 21:41:18 name: Reaumur - Sebastopol -> lines [3 4]
+2020/11/11 21:41:18 	n0 -> Sentier ([3])
+2020/11/11 21:41:18 	n1 -> Arts et Metiers ([3 11])
+2020/11/11 21:41:18 	n2 -> Strasbourg - Saint-Denis ([4 8 9])
+2020/11/11 21:41:18 	n3 -> etienne Marcel ([4])
+2020/11/11 21:41:18 name: Porte d'Orleans -> lines [4]
+2020/11/11 21:41:18 	n0 -> Alesia ([4])
+2020/11/11 21:41:18 	n1 -> Mairie de Montrouge ([4])
+2020/11/11 21:41:18 name: Louise Michel -> lines [3]
+2020/11/11 21:41:18 	n0 -> Anatole France ([3])
+2020/11/11 21:41:18 	n1 -> Porte de Champerret ([3])
+2020/11/11 21:41:18 name: George V -> lines [1]
+2020/11/11 21:41:18 	n0 -> Charles de Gaulle - etoile ([1 2 6])
+2020/11/11 21:41:18 	n1 -> Franklin D. Roosevelt ([1 9])
+2020/11/11 21:41:18 name: Opera -> lines [3 8]
+2020/11/11 21:41:18 	n0 -> Havre - Caumartin ([3 9])
+2020/11/11 21:41:18 	n1 -> Quatre-Septembre ([3])
+2020/11/11 21:41:18 	n2 -> Madeleine ([8 12 14])
+2020/11/11 21:41:18 	n3 -> Richelieu - Drouot ([8 9])
+2020/11/11 21:41:18 name: Porte de Bagnolet -> lines [3]
+2020/11/11 21:41:18 	n0 -> Gambetta ([3])
+2020/11/11 21:41:18 	n1 -> Gallieni ([3])
+2020/11/11 21:41:18 name: Dupleix -> lines [6]
+2020/11/11 21:41:18 	n0 -> Bir-Hakeim ([6])
+2020/11/11 21:41:18 	n1 -> La Motte-Picquet - Grenelle ([6 8 10])
+2020/11/11 21:41:18 name: Quai de la Gare -> lines [6]
+2020/11/11 21:41:18 	n0 -> Chevaleret ([6])
+2020/11/11 21:41:18 	n1 -> Bercy ([6 14])
+2020/11/11 21:41:18 name: Michel-Ange - Molitor ---- ---- Porte d'Auteuil -> lines [10]
+2020/11/11 21:41:18 	n0 -> Boulogne - Jean Jaures ([10])
+2020/11/11 21:41:18 	n1 -> Chardon-Lagache ---- ---- Michel-Ange - Auteuil ([10])
+2020/11/11 21:41:18 name: Argentine -> lines [1]
+2020/11/11 21:41:18 	n0 -> Porte Maillot ([1])
+2020/11/11 21:41:18 	n1 -> Charles de Gaulle - etoile ([1 2 6])
+2020/11/11 21:41:18 name: Saint-Georges -> lines [12]
+2020/11/11 21:41:18 	n0 -> Pigalle ([2 12])
+2020/11/11 21:41:18 	n1 -> Notre-Dame-de-Lorette ([12])
+2020/11/11 21:41:18 name: Mouton-Duvernet -> lines [4]
+2020/11/11 21:41:18 	n0 -> Denfert-Rochereau ([4 6])
+2020/11/11 21:41:18 	n1 -> Alesia ([4])
+2020/11/11 21:41:18 name: Sevres - Lecourbe -> lines [6]
+2020/11/11 21:41:18 	n0 -> Cambronne ([6])
+2020/11/11 21:41:18 	n1 -> Pasteur ([6 12])
+2020/11/11 21:41:18 name: Rue des Boulets -> lines [9]
+2020/11/11 21:41:18 	n0 -> Charonne ([9])
+2020/11/11 21:41:18 	n1 -> Nation ([1 2 6 9])
+2020/11/11 21:41:18 name: Parmentier -> lines [3]
+2020/11/11 21:41:18 	n0 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 	n1 -> Rue Saint-Maur ([3])
+2020/11/11 21:41:18 name: Alexandre Dumas -> lines [2]
+2020/11/11 21:41:18 	n0 -> Philippe Auguste ([2])
+2020/11/11 21:41:18 	n1 -> Avron ([2])
+2020/11/11 21:41:18 name: Gallieni -> lines [3]
+2020/11/11 21:41:18 	n0 -> Porte de Bagnolet ([3])
+2020/11/11 21:41:18 name: Ranelagh -> lines [9]
+2020/11/11 21:41:18 	n0 -> Jasmin ([9])
+2020/11/11 21:41:18 	n1 -> La Muette ([9])
+2020/11/11 21:41:18 name: Cardinal Lemoine -> lines [10]
+2020/11/11 21:41:18 	n0 -> Maubert - Mutualite ([10])
+2020/11/11 21:41:18 	n1 -> Jussieu ([10])
+2020/11/11 21:41:18 name: Place de Clichy -> lines [2]
+2020/11/11 21:41:18 	n0 -> Rome ([2])
+2020/11/11 21:41:18 	n1 -> Blanche ([2])
+2020/11/11 21:41:18 name: Chatelet -> lines [1 4 11 14]
+2020/11/11 21:41:18 	n0 -> Louvre - Rivoli ([1])
+2020/11/11 21:41:18 	n1 -> Hotel de Ville ([1 11])
+2020/11/11 21:41:18 	n2 -> Les Halles ([4])
+2020/11/11 21:41:18 	n3 -> Cite ([4])
+2020/11/11 21:41:18 	n4 -> Hotel de Ville ([1 11])
+2020/11/11 21:41:18 	n5 -> Pyramides ([14])
+2020/11/11 21:41:18 	n6 -> Gare de Lyon ([1 14])
+2020/11/11 21:41:18 name: Sentier -> lines [3]
+2020/11/11 21:41:18 	n0 -> Bourse ([3])
+2020/11/11 21:41:18 	n1 -> Reaumur - Sebastopol ([3 4])
+2020/11/11 21:41:18 name: Corvisart -> lines [6]
+2020/11/11 21:41:18 	n0 -> Glaciere ([6])
+2020/11/11 21:41:18 	n1 -> Place d'Italie ([5 6])
+2020/11/11 21:41:18 name: Louvre - Rivoli -> lines [1]
+2020/11/11 21:41:18 	n0 -> Palais Royal - Musee du Louvre ([1])
+2020/11/11 21:41:18 	n1 -> Chatelet ([1 4 11 14])
+2020/11/11 21:41:18 name: Avenue Emile Zola -> lines [10]
+2020/11/11 21:41:18 	n0 -> Charles Michels ([10])
+2020/11/11 21:41:18 	n1 -> La Motte-Picquet - Grenelle ([6 8 10])
+2020/11/11 21:41:18 name: Falguiere -> lines [12]
+2020/11/11 21:41:18 	n0 -> Montparnasse - Bienvenue ([4 6 12])
+2020/11/11 21:41:18 	n1 -> Pasteur ([6 12])
+2020/11/11 21:41:18 name: Havre - Caumartin -> lines [3 9]
+2020/11/11 21:41:18 	n0 -> Saint-Lazare ([3 12 14])
+2020/11/11 21:41:18 	n1 -> Opera ([3 8])
+2020/11/11 21:41:18 	n2 -> Saint-Augustin ([9])
+2020/11/11 21:41:18 	n3 -> Chaussee d'Antin - La Fayette ([9])
+2020/11/11 21:41:18 name: Bir-Hakeim -> lines [6]
+2020/11/11 21:41:18 	n0 -> Passy ([6])
+2020/11/11 21:41:18 	n1 -> Dupleix ([6])
+2020/11/11 21:41:18 name: Maubert - Mutualite -> lines [10]
+2020/11/11 21:41:18 	n0 -> Cluny - La Sorbonne ([10])
+2020/11/11 21:41:18 	n1 -> Cardinal Lemoine ([10])
+2020/11/11 21:41:18 name: Laumiere -> lines [5]
+2020/11/11 21:41:18 	n0 -> Ourcq ([5])
+2020/11/11 21:41:18 	n1 -> Jaures ([2 5])
+2020/11/11 21:41:18 name: Vaneau -> lines [10]
+2020/11/11 21:41:18 	n0 -> Duroc ([10])
+2020/11/11 21:41:18 	n1 -> Sevres - Babylone ([10 12])
+2020/11/11 21:41:18 name: Porte de Clignancourt -> lines [4]
+2020/11/11 21:41:18 	n0 -> Simplon ([4])
+2020/11/11 21:41:18 name: Menilmontant -> lines [2]
+2020/11/11 21:41:18 	n0 -> Couronnes ([2])
+2020/11/11 21:41:18 	n1 -> Pere Lachaise ([2 3])
+2020/11/11 21:41:18 name: Monceau -> lines [2]
+2020/11/11 21:41:18 	n0 -> Courcelles ([2])
+2020/11/11 21:41:18 	n1 -> Villiers ([2 3])
+2020/11/11 21:41:18 name: Dugommier -> lines [6]
+2020/11/11 21:41:18 	n0 -> Bercy ([6 14])
+2020/11/11 21:41:18 	n1 -> Daumesnil ([6 8])
+2020/11/11 21:41:18 name: Porte Maillot -> lines [1]
+2020/11/11 21:41:18 	n0 -> Les Sablons ([1])
+2020/11/11 21:41:18 	n1 -> Argentine ([1])
+2020/11/11 21:41:18 name: Filles du Calvaire -> lines [8]
+2020/11/11 21:41:18 	n0 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 	n1 -> Saint-Sebastien - Froissart ([8])
+2020/11/11 21:41:18 name: Goncourt -> lines [11]
+2020/11/11 21:41:18 	n0 -> Belleville ([2 11])
+2020/11/11 21:41:18 	n1 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 name: Corentin Celton -> lines [12]
+2020/11/11 21:41:18 	n0 -> Porte de Versailles ([12])
+2020/11/11 21:41:18 	n1 -> Mairie d'Issy ([12])
+2020/11/11 21:41:18 name: Gare d'Austerlitz -> lines [5 10]
+2020/11/11 21:41:18 	n0 -> Quai de la Rapee ([5])
+2020/11/11 21:41:18 	n1 -> Saint-Marcel ([5])
+2020/11/11 21:41:18 	n2 -> Jussieu ([10])
+2020/11/11 21:41:18 name: Philippe Auguste -> lines [2]
+2020/11/11 21:41:18 	n0 -> Pere Lachaise ([2 3])
+2020/11/11 21:41:18 	n1 -> Alexandre Dumas ([2])
+2020/11/11 21:41:18 name: Quai de la Rapee -> lines [5]
+2020/11/11 21:41:18 	n0 -> Bastille ([1 5 8])
+2020/11/11 21:41:18 	n1 -> Gare d'Austerlitz ([5 10])
+2020/11/11 21:41:18 name: Trocadero -> lines [6 9]
+2020/11/11 21:41:18 	n0 -> Boissiere ([6])
+2020/11/11 21:41:18 	n1 -> Passy ([6])
+2020/11/11 21:41:18 	n2 -> Rue de la Pompe ([9])
+2020/11/11 21:41:18 	n3 -> Iena ([9])
+2020/11/11 21:41:18 name: Volontaires -> lines [12]
+2020/11/11 21:41:18 	n0 -> Pasteur ([6 12])
+2020/11/11 21:41:18 	n1 -> Vaugirard ([12])
+2020/11/11 21:41:18 name: Couronnes -> lines [2]
+2020/11/11 21:41:18 	n0 -> Belleville ([2 11])
+2020/11/11 21:41:18 	n1 -> Menilmontant ([2])
+2020/11/11 21:41:18 name: Pont de Sevres -> lines [9]
+2020/11/11 21:41:18 	n0 -> Billancourt ([9])
+2020/11/11 21:41:18 name: Odeon -> lines [4 10]
+2020/11/11 21:41:18 	n0 -> Saint-Michel ([4])
+2020/11/11 21:41:18 	n1 -> Saint-Germain-des-Pres ([4])
+2020/11/11 21:41:18 	n2 -> Mabillon ([10])
+2020/11/11 21:41:18 	n3 -> Cluny - La Sorbonne ([10])
+2020/11/11 21:41:18 name: Europe -> lines [3]
+2020/11/11 21:41:18 	n0 -> Villiers ([2 3])
+2020/11/11 21:41:18 	n1 -> Saint-Lazare ([3 12 14])
+2020/11/11 21:41:18 name: Marcadet - Poissonniers -> lines [4 12]
+2020/11/11 21:41:18 	n0 -> Simplon ([4])
+2020/11/11 21:41:18 	n1 -> Chateau Rouge ([4])
+2020/11/11 21:41:18 	n2 -> Marx Dormoy ([12])
+2020/11/11 21:41:18 	n3 -> Jules Joffrin ([12])
+2020/11/11 21:41:18 name: Porte de Saint-Cloud -> lines [9]
+2020/11/11 21:41:18 	n0 -> Marcel Sembat ([9])
+2020/11/11 21:41:18 	n1 -> Exelmans ([9])
+2020/11/11 21:41:18 name: La Muette -> lines [9]
+2020/11/11 21:41:18 	n0 -> Ranelagh ([9])
+2020/11/11 21:41:18 	n1 -> Rue de la Pompe ([9])
+2020/11/11 21:41:18 name: Cour Saint-emilion -> lines [14]
+2020/11/11 21:41:18 	n0 -> Bercy ([6 14])
+2020/11/11 21:41:18 	n1 -> Bibliotheque François Mitterrand ([14])
+2020/11/11 21:41:18 name: Anatole France -> lines [3]
+2020/11/11 21:41:18 	n0 -> Pont de Levallois - Becon ([3])
+2020/11/11 21:41:18 	n1 -> Louise Michel ([3])
+2020/11/11 21:41:18 name: Kleber -> lines [6]
+2020/11/11 21:41:18 	n0 -> Charles de Gaulle - etoile ([1 2 6])
+2020/11/11 21:41:18 	n1 -> Boissiere ([6])
+2020/11/11 21:41:18 name: Montgallet -> lines [8]
+2020/11/11 21:41:18 	n0 -> Reuilly - Diderot ([1 8])
+2020/11/11 21:41:18 	n1 -> Daumesnil ([6 8])
+2020/11/11 21:41:18 name: Ternes -> lines [2]
+2020/11/11 21:41:18 	n0 -> Charles de Gaulle - etoile ([1 2 6])
+2020/11/11 21:41:18 	n1 -> Courcelles ([2])
+2020/11/11 21:41:18 name: Richard-Lenoir -> lines [5]
+2020/11/11 21:41:18 	n0 -> Oberkampf ([5 9])
+2020/11/11 21:41:18 	n1 -> Breguet - Sabin ([5])
+2020/11/11 21:41:18 name: Place des Fêtes -> lines [11]
+2020/11/11 21:41:18 	n0 -> Telegraphe ([11])
+2020/11/11 21:41:18 	n1 -> Jourdain ([11])
+2020/11/11 21:41:18 name: Pyrenees -> lines [11]
+2020/11/11 21:41:18 	n0 -> Jourdain ([11])
+2020/11/11 21:41:18 	n1 -> Belleville ([2 11])
+2020/11/11 21:41:18 name: Lamarck - Caulaincourt -> lines [12]
+2020/11/11 21:41:18 	n0 -> Jules Joffrin ([12])
+2020/11/11 21:41:18 	n1 -> Abbesses ([12])
+2020/11/11 21:41:18 name: Saint-Germain-des-Pres -> lines [4]
+2020/11/11 21:41:18 	n0 -> Odeon ([4 10])
+2020/11/11 21:41:18 	n1 -> Saint-Sulpice ([4])
+2020/11/11 21:41:18 name: La Tour-Maubourg -> lines [8]
+2020/11/11 21:41:18 	n0 -> ecole Militaire ([8])
+2020/11/11 21:41:18 	n1 -> Invalides ([8])
+2020/11/11 21:41:18 name: Palais Royal - Musee du Louvre -> lines [1]
+2020/11/11 21:41:18 	n0 -> Tuileries ([1])
+2020/11/11 21:41:18 	n1 -> Louvre - Rivoli ([1])
+2020/11/11 21:41:18 name: Saint-Sebastien - Froissart -> lines [8]
+2020/11/11 21:41:18 	n0 -> Filles du Calvaire ([8])
+2020/11/11 21:41:18 	n1 -> Chemin Vert ([8])
+2020/11/11 21:41:18 name: Simplon -> lines [4]
+2020/11/11 21:41:18 	n0 -> Porte de Clignancourt ([4])
+2020/11/11 21:41:18 	n1 -> Marcadet - Poissonniers ([4 12])
+2020/11/11 21:41:18 name: Pereire -> lines [3]
+2020/11/11 21:41:18 	n0 -> Porte de Champerret ([3])
+2020/11/11 21:41:18 	n1 -> Wagram ([3])
+2020/11/11 21:41:18 name: Alesia -> lines [4]
+2020/11/11 21:41:18 	n0 -> Mouton-Duvernet ([4])
+2020/11/11 21:41:18 	n1 -> Porte d'Orleans ([4])
+2020/11/11 21:41:18 name: Mairie d'Issy -> lines [12]
+2020/11/11 21:41:18 	n0 -> Corentin Celton ([12])
+2020/11/11 21:41:18 name: Pigalle -> lines [2 12]
+2020/11/11 21:41:18 	n0 -> Blanche ([2])
+2020/11/11 21:41:18 	n1 -> Anvers ([2])
+2020/11/11 21:41:18 	n2 -> Abbesses ([12])
+2020/11/11 21:41:18 	n3 -> Saint-Georges ([12])
+2020/11/11 21:41:18 name: Robespierre -> lines [9]
+2020/11/11 21:41:18 	n0 -> Porte de Montreuil ([9])
+2020/11/11 21:41:18 	n1 -> Croix de Chavaux ([9])
+2020/11/11 21:41:18 name: Jussieu -> lines [10]
+2020/11/11 21:41:18 	n0 -> Cardinal Lemoine ([10])
+2020/11/11 21:41:18 	n1 -> Gare d'Austerlitz ([5 10])
+2020/11/11 21:41:18 name: Gare de Lyon -> lines [1 14]
+2020/11/11 21:41:18 	n0 -> Bastille ([1 5 8])
+2020/11/11 21:41:18 	n1 -> Reuilly - Diderot ([1 8])
+2020/11/11 21:41:18 	n2 -> Chatelet ([1 4 11 14])
+2020/11/11 21:41:18 	n3 -> Bercy ([6 14])
+2020/11/11 21:41:18 name: Vavin -> lines [4]
+2020/11/11 21:41:18 	n0 -> Montparnasse - Bienvenue ([4 6 12])
+2020/11/11 21:41:18 	n1 -> Raspail ([4 6])
+2020/11/11 21:41:18 name: Campo-Formio -> lines [5]
+2020/11/11 21:41:18 	n0 -> Saint-Marcel ([5])
+2020/11/11 21:41:18 	n1 -> Place d'Italie ([5 6])
+2020/11/11 21:41:18 name: Billancourt -> lines [9]
+2020/11/11 21:41:18 	n0 -> Pont de Sevres ([9])
+2020/11/11 21:41:18 	n1 -> Marcel Sembat ([9])
+2020/11/11 21:41:18 name: Javel - Andre Citroen -> lines [10]
+2020/11/11 21:41:18 	n0 -> Mirabeau ---- ---- eglise d'Auteuil ([10])
+2020/11/11 21:41:18 	n1 -> Charles Michels ([10])
+2020/11/11 21:41:18 name: Porte de Versailles -> lines [12]
+2020/11/11 21:41:18 	n0 -> Convention ([12])
+2020/11/11 21:41:18 	n1 -> Corentin Celton ([12])
+2020/11/11 21:41:18 name: Pont de Neuilly -> lines [1]
+2020/11/11 21:41:18 	n0 -> Esplanade de la Defense ([1])
+2020/11/11 21:41:18 	n1 -> Les Sablons ([1])
+2020/11/11 21:41:18 name: Bel-Air -> lines [6]
+2020/11/11 21:41:18 	n0 -> Daumesnil ([6 8])
+2020/11/11 21:41:18 	n1 -> Picpus ([6])
+2020/11/11 21:41:18 name: Boucicaut -> lines [8]
+2020/11/11 21:41:18 	n0 -> Lourmel ([8])
+2020/11/11 21:41:18 	n1 -> Felix Faure ([8])
+2020/11/11 21:41:18 name: Pasteur -> lines [6 12]
+2020/11/11 21:41:18 	n0 -> Sevres - Lecourbe ([6])
+2020/11/11 21:41:18 	n1 -> Montparnasse - Bienvenue ([4 6 12])
+2020/11/11 21:41:18 	n2 -> Falguiere ([12])
+2020/11/11 21:41:18 	n3 -> Volontaires ([12])
+2020/11/11 21:41:18 name: Arts et Metiers -> lines [3 11]
+2020/11/11 21:41:18 	n0 -> Reaumur - Sebastopol ([3 4])
+2020/11/11 21:41:18 	n1 -> Temple ([3])
+2020/11/11 21:41:18 	n2 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 	n3 -> Rambuteau ([11])
+2020/11/11 21:41:18 name: Nation -> lines [1 2 6 9]
+2020/11/11 21:41:18 	n0 -> Reuilly - Diderot ([1 8])
+2020/11/11 21:41:18 	n1 -> Porte de Vincennes ([1])
+2020/11/11 21:41:18 	n2 -> Avron ([2])
+2020/11/11 21:41:18 	n3 -> Picpus ([6])
+2020/11/11 21:41:18 	n4 -> Rue des Boulets ([9])
+2020/11/11 21:41:18 	n5 -> Buzenval ([9])
+2020/11/11 21:41:18 name: Chemin Vert -> lines [8]
+2020/11/11 21:41:18 	n0 -> Saint-Sebastien - Froissart ([8])
+2020/11/11 21:41:18 	n1 -> Bastille ([1 5 8])
+2020/11/11 21:41:18 name: ecole Veterinaire de Maisons-Alfort -> lines [8]
+2020/11/11 21:41:18 	n0 -> Charenton - ecoles (Place Aristide Briand) ([8])
+2020/11/11 21:41:18 	n1 -> Maisons-Alfort - Stade ([8])
+2020/11/11 21:41:18 name: Porte de la Chapelle -> lines [12]
+2020/11/11 21:41:18 	n0 -> Marx Dormoy ([12])
+2020/11/11 21:41:18 name: Rome -> lines [2]
+2020/11/11 21:41:18 	n0 -> Villiers ([2 3])
+2020/11/11 21:41:18 	n1 -> Place de Clichy ([2])
+2020/11/11 21:41:18 name: Gare de l'Est -> lines [4 5]
+2020/11/11 21:41:18 	n0 -> Gare du Nord ([4 5])
+2020/11/11 21:41:18 	n1 -> Chateau d'Eau ([4])
+2020/11/11 21:41:18 	n2 -> Gare du Nord ([4 5])
+2020/11/11 21:41:18 	n3 -> Jacques Bonsergent ([5])
+2020/11/11 21:41:18 name: Saint-Sulpice -> lines [4]
+2020/11/11 21:41:18 	n0 -> Saint-Germain-des-Pres ([4])
+2020/11/11 21:41:18 	n1 -> Saint-Placide ([4])
+2020/11/11 21:41:18 name: Alma - Marceau -> lines [9]
+2020/11/11 21:41:18 	n0 -> Iena ([9])
+2020/11/11 21:41:18 	n1 -> Franklin D. Roosevelt ([1 9])
+2020/11/11 21:41:18 name: Gambetta -> lines [3]
+2020/11/11 21:41:18 	n0 -> Pere Lachaise ([2 3])
+2020/11/11 21:41:18 	n1 -> Porte de Bagnolet ([3])
+2020/11/11 21:41:18 name: Rambuteau -> lines [11]
+2020/11/11 21:41:18 	n0 -> Arts et Metiers ([3 11])
+2020/11/11 21:41:18 	n1 -> Hotel de Ville ([1 11])
+2020/11/11 21:41:18 name: Convention -> lines [12]
+2020/11/11 21:41:18 	n0 -> Vaugirard ([12])
+2020/11/11 21:41:18 	n1 -> Porte de Versailles ([12])
+2020/11/11 21:41:18 name: Felix Faure -> lines [8]
+2020/11/11 21:41:18 	n0 -> Boucicaut ([8])
+2020/11/11 21:41:18 	n1 -> Commerce ([8])
+2020/11/11 21:41:18 name: Charenton - ecoles (Place Aristide Briand) -> lines [8]
+2020/11/11 21:41:18 	n0 -> Liberte ([8])
+2020/11/11 21:41:18 	n1 -> ecole Veterinaire de Maisons-Alfort ([8])
+2020/11/11 21:41:18 name: Chardon-Lagache ---- ---- Michel-Ange - Auteuil -> lines [10]
+2020/11/11 21:41:18 	n0 -> Michel-Ange - Molitor ---- ---- Porte d'Auteuil ([10])
+2020/11/11 21:41:18 	n1 -> Mirabeau ---- ---- eglise d'Auteuil ([10])
+2020/11/11 21:41:18 name: eglise de Pantin -> lines [5]
+2020/11/11 21:41:18 	n0 -> Bobigny - Pantin - Raymond Queneau ([5])
+2020/11/11 21:41:18 	n1 -> Hoche ([5])
+2020/11/11 21:41:18 name: Saint-Augustin -> lines [9]
+2020/11/11 21:41:18 	n0 -> Miromesnil ([9])
+2020/11/11 21:41:18 	n1 -> Havre - Caumartin ([3 9])
+2020/11/11 21:41:18 name: Notre-Dame-des-Champs -> lines [12]
+2020/11/11 21:41:18 	n0 -> Rennes ([12])
+2020/11/11 21:41:18 	n1 -> Montparnasse - Bienvenue ([4 6 12])
+2020/11/11 21:41:18 name: Hoche -> lines [5]
+2020/11/11 21:41:18 	n0 -> eglise de Pantin ([5])
+2020/11/11 21:41:18 	n1 -> Porte de Pantin ([5])
+2020/11/11 21:41:18 name: Bonne Nouvelle -> lines [8 9]
+2020/11/11 21:41:18 	n0 -> Grands Boulevards ([8 9])
+2020/11/11 21:41:18 	n1 -> Strasbourg - Saint-Denis ([4 8 9])
+2020/11/11 21:41:18 	n2 -> Grands Boulevards ([8 9])
+2020/11/11 21:41:18 	n3 -> Strasbourg - Saint-Denis ([4 8 9])
+2020/11/11 21:41:18 name: Glaciere -> lines [6]
+2020/11/11 21:41:18 	n0 -> Saint-Jacques ([6])
+2020/11/11 21:41:18 	n1 -> Corvisart ([6])
+2020/11/11 21:41:18 name: Charonne -> lines [9]
+2020/11/11 21:41:18 	n0 -> Voltaire ([9])
+2020/11/11 21:41:18 	n1 -> Rue des Boulets ([9])
+2020/11/11 21:41:18 name: Porte de Vincennes -> lines [1]
+2020/11/11 21:41:18 	n0 -> Nation ([1 2 6 9])
+2020/11/11 21:41:18 	n1 -> Saint-Mande ([1])
+2020/11/11 21:41:18 name: Porte Dauphine -> lines [2]
+2020/11/11 21:41:18 	n0 -> Victor Hugo ([2])
+2020/11/11 21:41:18 name: Stalingrad -> lines [2 5]
+2020/11/11 21:41:18 	n0 -> La Chapelle ([2])
+2020/11/11 21:41:18 	n1 -> Jaures ([2 5])
+2020/11/11 21:41:18 	n2 -> Jaures ([2 5])
+2020/11/11 21:41:18 	n3 -> Gare du Nord ([4 5])
+2020/11/11 21:41:18 name: Richelieu - Drouot -> lines [8 9]
+2020/11/11 21:41:18 	n0 -> Opera ([3 8])
+2020/11/11 21:41:18 	n1 -> Grands Boulevards ([8 9])
+2020/11/11 21:41:18 	n2 -> Chaussee d'Antin - La Fayette ([9])
+2020/11/11 21:41:18 	n3 -> Grands Boulevards ([8 9])
+2020/11/11 21:41:18 name: Chaussee d'Antin - La Fayette -> lines [9]
+2020/11/11 21:41:18 	n0 -> Havre - Caumartin ([3 9])
+2020/11/11 21:41:18 	n1 -> Richelieu - Drouot ([8 9])
+2020/11/11 21:41:18 name: Sevres - Babylone -> lines [10 12]
+2020/11/11 21:41:18 	n0 -> Vaneau ([10])
+2020/11/11 21:41:18 	n1 -> Mabillon ([10])
+2020/11/11 21:41:18 	n2 -> Rue du Bac ([12])
+2020/11/11 21:41:18 	n3 -> Rennes ([12])
+2020/11/11 21:41:18 name: Berault -> lines [1]
+2020/11/11 21:41:18 	n0 -> Saint-Mande ([1])
+2020/11/11 21:41:18 	n1 -> Chateau de Vincennes ([1])
+2020/11/11 21:41:18 name: Pere Lachaise -> lines [2 3]
+2020/11/11 21:41:18 	n0 -> Menilmontant ([2])
+2020/11/11 21:41:18 	n1 -> Philippe Auguste ([2])
+2020/11/11 21:41:18 	n2 -> Rue Saint-Maur ([3])
+2020/11/11 21:41:18 	n3 -> Gambetta ([3])
+2020/11/11 21:41:18 name: Champs-elysees - Clemenceau -> lines [1]
+2020/11/11 21:41:18 	n0 -> Franklin D. Roosevelt ([1 9])
+2020/11/11 21:41:18 	n1 -> Concorde ([1 8 12])
+2020/11/11 21:41:18 name: Avron -> lines [2]
+2020/11/11 21:41:18 	n0 -> Alexandre Dumas ([2])
+2020/11/11 21:41:18 	n1 -> Nation ([1 2 6 9])
+2020/11/11 21:41:18 name: Montparnasse - Bienvenue -> lines [4 6 12]
+2020/11/11 21:41:18 	n0 -> Saint-Placide ([4])
+2020/11/11 21:41:18 	n1 -> Vavin ([4])
+2020/11/11 21:41:18 	n2 -> Pasteur ([6 12])
+2020/11/11 21:41:18 	n3 -> Edgar Quinet ([6])
+2020/11/11 21:41:18 	n4 -> Notre-Dame-des-Champs ([12])
+2020/11/11 21:41:18 	n5 -> Falguiere ([12])
+2020/11/11 21:41:18 name: Grands Boulevards -> lines [8 9]
+2020/11/11 21:41:18 	n0 -> Richelieu - Drouot ([8 9])
+2020/11/11 21:41:18 	n1 -> Bonne Nouvelle ([8 9])
+2020/11/11 21:41:18 	n2 -> Richelieu - Drouot ([8 9])
+2020/11/11 21:41:18 	n3 -> Bonne Nouvelle ([8 9])
+2020/11/11 21:41:18 name: Boulogne - Pont de Saint-Cloud -> lines [10]
+2020/11/11 21:41:18 	n0 -> Boulogne - Jean Jaures ([10])
+2020/11/11 21:41:18 name: Charles Michels -> lines [10]
+2020/11/11 21:41:18 	n0 -> Javel - Andre Citroen ([10])
+2020/11/11 21:41:18 	n1 -> Avenue Emile Zola ([10])
+2020/11/11 21:41:18 name: Rennes -> lines [12]
+2020/11/11 21:41:18 	n0 -> Sevres - Babylone ([10 12])
+2020/11/11 21:41:18 	n1 -> Notre-Dame-des-Champs ([12])
+2020/11/11 21:41:18 name: Charles de Gaulle - etoile -> lines [1 2 6]
+2020/11/11 21:41:18 	n0 -> Argentine ([1])
+2020/11/11 21:41:18 	n1 -> George V ([1])
+2020/11/11 21:41:18 	n2 -> Victor Hugo ([2])
+2020/11/11 21:41:18 	n3 -> Ternes ([2])
+2020/11/11 21:41:18 	n4 -> Kleber ([6])
+2020/11/11 21:41:18 name: Pyramides -> lines [14]
+2020/11/11 21:41:18 	n0 -> Madeleine ([8 12 14])
+2020/11/11 21:41:18 	n1 -> Chatelet ([1 4 11 14])
+2020/11/11 21:41:18 name: La Chapelle -> lines [2]
+2020/11/11 21:41:18 	n0 -> Barbes - Rochechouart ([2 4])
+2020/11/11 21:41:18 	n1 -> Stalingrad ([2 5])
+2020/11/11 21:41:18 name: Passy -> lines [6]
+2020/11/11 21:41:18 	n0 -> Trocadero ([6 9])
+2020/11/11 21:41:18 	n1 -> Bir-Hakeim ([6])
+2020/11/11 21:41:18 name: La Motte-Picquet - Grenelle -> lines [6 8 10]
+2020/11/11 21:41:18 	n0 -> Dupleix ([6])
+2020/11/11 21:41:18 	n1 -> Cambronne ([6])
+2020/11/11 21:41:18 	n2 -> Commerce ([8])
+2020/11/11 21:41:18 	n3 -> ecole Militaire ([8])
+2020/11/11 21:41:18 	n4 -> Avenue Emile Zola ([10])
+2020/11/11 21:41:18 	n5 -> Segur ([10])
+2020/11/11 21:41:18 name: Liberte -> lines [8]
+2020/11/11 21:41:18 	n0 -> Porte de Charenton ([8])
+2020/11/11 21:41:18 	n1 -> Charenton - ecoles (Place Aristide Briand) ([8])
+2020/11/11 21:41:18 name: Iena -> lines [9]
+2020/11/11 21:41:18 	n0 -> Trocadero ([6 9])
+2020/11/11 21:41:18 	n1 -> Alma - Marceau ([9])
+2020/11/11 21:41:18 name: Saint-Philippe du Roule -> lines [9]
+2020/11/11 21:41:18 	n0 -> Franklin D. Roosevelt ([1 9])
+2020/11/11 21:41:18 	n1 -> Miromesnil ([9])
+2020/11/11 21:41:18 name: Buzenval -> lines [9]
+2020/11/11 21:41:18 	n0 -> Nation ([1 2 6 9])
+2020/11/11 21:41:18 	n1 -> Maraichers ([9])
+2020/11/11 21:41:18 name: Villiers -> lines [2 3]
+2020/11/11 21:41:18 	n0 -> Monceau ([2])
+2020/11/11 21:41:18 	n1 -> Rome ([2])
+2020/11/11 21:41:18 	n2 -> Malesherbes ([3])
+2020/11/11 21:41:18 	n3 -> Europe ([3])
+2020/11/11 21:41:18 name: Courcelles -> lines [2]
+2020/11/11 21:41:18 	n0 -> Ternes ([2])
+2020/11/11 21:41:18 	n1 -> Monceau ([2])
+2020/11/11 21:41:18 name: ecole Militaire -> lines [8]
+2020/11/11 21:41:18 	n0 -> La Motte-Picquet - Grenelle ([6 8 10])
+2020/11/11 21:41:18 	n1 -> La Tour-Maubourg ([8])
+2020/11/11 21:41:18 name: Invalides -> lines [8]
+2020/11/11 21:41:18 	n0 -> La Tour-Maubourg ([8])
+2020/11/11 21:41:18 	n1 -> Concorde ([1 8 12])
+2020/11/11 21:41:18 name: Esplanade de la Defense -> lines [1]
+2020/11/11 21:41:18 	n0 -> La Defense - Grande Arche ([1])
+2020/11/11 21:41:18 	n1 -> Pont de Neuilly ([1])
+2020/11/11 21:41:18 name: Blanche -> lines [2]
+2020/11/11 21:41:18 	n0 -> Place de Clichy ([2])
+2020/11/11 21:41:18 	n1 -> Pigalle ([2 12])
+2020/11/11 21:41:18 name: Porte de Champerret -> lines [3]
+2020/11/11 21:41:18 	n0 -> Louise Michel ([3])
+2020/11/11 21:41:18 	n1 -> Pereire ([3])
+2020/11/11 21:41:18 name: Croix de Chavaux -> lines [9]
+2020/11/11 21:41:18 	n0 -> Robespierre ([9])
+2020/11/11 21:41:18 	n1 -> Mairie de Montreuil ([9])
+2020/11/11 21:41:18 name: Boulogne - Jean Jaures -> lines [10]
+2020/11/11 21:41:18 	n0 -> Boulogne - Pont de Saint-Cloud ([10])
+2020/11/11 21:41:18 	n1 -> Michel-Ange - Molitor ---- ---- Porte d'Auteuil ([10])
+2020/11/11 21:41:18 name: Tuileries -> lines [1]
+2020/11/11 21:41:18 	n0 -> Concorde ([1 8 12])
+2020/11/11 21:41:18 	n1 -> Palais Royal - Musee du Louvre ([1])
+2020/11/11 21:41:18 name: Wagram -> lines [3]
+2020/11/11 21:41:18 	n0 -> Pereire ([3])
+2020/11/11 21:41:18 	n1 -> Malesherbes ([3])
+2020/11/11 21:41:18 name: Temple -> lines [3]
+2020/11/11 21:41:18 	n0 -> Arts et Metiers ([3 11])
+2020/11/11 21:41:18 	n1 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 name: Michel-Ange - Molitor -> lines [9]
+2020/11/11 21:41:18 	n0 -> Exelmans ([9])
+2020/11/11 21:41:18 	n1 -> Michel-Ange - Auteuil ([9])
+2020/11/11 21:41:18 name: La Defense - Grande Arche -> lines [1]
+2020/11/11 21:41:18 	n0 -> Esplanade de la Defense ([1])
+2020/11/11 21:41:18 name: Lourmel -> lines [8]
+2020/11/11 21:41:18 	n0 -> Balard ([8])
+2020/11/11 21:41:18 	n1 -> Boucicaut ([8])
+2020/11/11 21:41:18 name: Jasmin -> lines [9]
+2020/11/11 21:41:18 	n0 -> Michel-Ange - Auteuil ([9])
+2020/11/11 21:41:18 	n1 -> Ranelagh ([9])
+2020/11/11 21:41:18 name: Maraichers -> lines [9]
+2020/11/11 21:41:18 	n0 -> Buzenval ([9])
+2020/11/11 21:41:18 	n1 -> Porte de Montreuil ([9])
+2020/11/11 21:41:18 name: Vaugirard -> lines [12]
+2020/11/11 21:41:18 	n0 -> Volontaires ([12])
+2020/11/11 21:41:18 	n1 -> Convention ([12])
+2020/11/11 21:41:18 name: Jaures -> lines [2 5]
+2020/11/11 21:41:18 	n0 -> Stalingrad ([2 5])
+2020/11/11 21:41:18 	n1 -> Colonel Fabien ([2])
+2020/11/11 21:41:18 	n2 -> Laumiere ([5])
+2020/11/11 21:41:18 	n3 -> Stalingrad ([2 5])
+2020/11/11 21:41:18 name: Creteil - Universite -> lines [8]
+2020/11/11 21:41:18 	n0 -> Creteil - L'echat ([8])
+2020/11/11 21:41:18 	n1 -> Creteil - Prefecture ([8])
+2020/11/11 21:41:18 name: Chateau de Vincennes -> lines [1]
+2020/11/11 21:41:18 	n0 -> Berault ([1])
+2020/11/11 21:41:18 name: Saint-Marcel -> lines [5]
+2020/11/11 21:41:18 	n0 -> Gare d'Austerlitz ([5 10])
+2020/11/11 21:41:18 	n1 -> Campo-Formio ([5])
+2020/11/11 21:41:18 name: Ledru-Rollin -> lines [8]
+2020/11/11 21:41:18 	n0 -> Bastille ([1 5 8])
+2020/11/11 21:41:18 	n1 -> Faidherbe - Chaligny ([8])
+2020/11/11 21:41:18 name: Maisons-Alfort - Les Juilliottes -> lines [8]
+2020/11/11 21:41:18 	n0 -> Maisons-Alfort - Stade ([8])
+2020/11/11 21:41:18 	n1 -> Creteil - L'echat ([8])
+2020/11/11 21:41:18 name: Voltaire -> lines [9]
+2020/11/11 21:41:18 	n0 -> Saint-Ambroise ([9])
+2020/11/11 21:41:18 	n1 -> Charonne ([9])
+2020/11/11 21:41:18 name: Hotel de Ville -> lines [1 11]
+2020/11/11 21:41:18 	n0 -> Chatelet ([1 4 11 14])
+2020/11/11 21:41:18 	n1 -> Saint-Paul ([1])
+2020/11/11 21:41:18 	n2 -> Rambuteau ([11])
+2020/11/11 21:41:18 	n3 -> Chatelet ([1 4 11 14])
+2020/11/11 21:41:18 name: Raspail -> lines [4 6]
+2020/11/11 21:41:18 	n0 -> Vavin ([4])
+2020/11/11 21:41:18 	n1 -> Denfert-Rochereau ([4 6])
+2020/11/11 21:41:18 	n2 -> Edgar Quinet ([6])
+2020/11/11 21:41:18 	n3 -> Denfert-Rochereau ([4 6])
+2020/11/11 21:41:18 name: Maisons-Alfort - Stade -> lines [8]
+2020/11/11 21:41:18 	n0 -> ecole Veterinaire de Maisons-Alfort ([8])
+2020/11/11 21:41:18 	n1 -> Maisons-Alfort - Les Juilliottes ([8])
+2020/11/11 21:41:18 name: Duroc -> lines [10]
+2020/11/11 21:41:18 	n0 -> Segur ([10])
+2020/11/11 21:41:18 	n1 -> Vaneau ([10])
+2020/11/11 21:41:18 name: Telegraphe -> lines [11]
+2020/11/11 21:41:18 	n0 -> Porte des Lilas ([11])
+2020/11/11 21:41:18 	n1 -> Place des Fêtes ([11])
+2020/11/11 21:41:18 name: Les Sablons -> lines [1]
+2020/11/11 21:41:18 	n0 -> Pont de Neuilly ([1])
+2020/11/11 21:41:18 	n1 -> Porte Maillot ([1])
+2020/11/11 21:41:18 name: Faidherbe - Chaligny -> lines [8]
+2020/11/11 21:41:18 	n0 -> Ledru-Rollin ([8])
+2020/11/11 21:41:18 	n1 -> Reuilly - Diderot ([1 8])
+2020/11/11 21:41:18 name: Rue de la Pompe -> lines [9]
+2020/11/11 21:41:18 	n0 -> La Muette ([9])
+2020/11/11 21:41:18 	n1 -> Trocadero ([6 9])
+2020/11/11 21:41:18 name: Les Halles -> lines [4]
+2020/11/11 21:41:18 	n0 -> etienne Marcel ([4])
+2020/11/11 21:41:18 	n1 -> Chatelet ([1 4 11 14])
+2020/11/11 21:41:18 name: Republique -> lines [3 5 8 9 11]
+2020/11/11 21:41:18 	n0 -> Temple ([3])
+2020/11/11 21:41:18 	n1 -> Parmentier ([3])
+2020/11/11 21:41:18 	n2 -> Jacques Bonsergent ([5])
+2020/11/11 21:41:18 	n3 -> Oberkampf ([5 9])
+2020/11/11 21:41:18 	n4 -> Strasbourg - Saint-Denis ([4 8 9])
+2020/11/11 21:41:18 	n5 -> Filles du Calvaire ([8])
+2020/11/11 21:41:18 	n6 -> Strasbourg - Saint-Denis ([4 8 9])
+2020/11/11 21:41:18 	n7 -> Oberkampf ([5 9])
+2020/11/11 21:41:18 	n8 -> Goncourt ([11])
+2020/11/11 21:41:18 	n9 -> Arts et Metiers ([3 11])
+2020/11/11 21:41:18 name: Strasbourg - Saint-Denis -> lines [4 8 9]
+2020/11/11 21:41:18 	n0 -> Chateau d'Eau ([4])
+2020/11/11 21:41:18 	n1 -> Reaumur - Sebastopol ([3 4])
+2020/11/11 21:41:18 	n2 -> Bonne Nouvelle ([8 9])
+2020/11/11 21:41:18 	n3 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 	n4 -> Bonne Nouvelle ([8 9])
+2020/11/11 21:41:18 	n5 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 name: Mairie de Montrouge -> lines [4]
+2020/11/11 21:41:18 	n0 -> Porte d'Orleans ([4])
+2020/11/11 21:41:18 name: Porte des Lilas -> lines [11]
+2020/11/11 21:41:18 	n0 -> Mairie des Lilas ([11])
+2020/11/11 21:41:18 	n1 -> Telegraphe ([11])
+2020/11/11 21:41:18 name: Notre-Dame-de-Lorette -> lines [12]
+2020/11/11 21:41:18 	n0 -> Saint-Georges ([12])
+2020/11/11 21:41:18 	n1 -> Trinite - d'Estienne d'Orves ([12])
+2020/11/11 21:41:18 name: Malesherbes -> lines [3]
+2020/11/11 21:41:18 	n0 -> Wagram ([3])
+2020/11/11 21:41:18 	n1 -> Villiers ([2 3])
+2020/11/11 21:41:18 name: Saint-Lazare -> lines [3 12 14]
+2020/11/11 21:41:18 	n0 -> Europe ([3])
+2020/11/11 21:41:18 	n1 -> Havre - Caumartin ([3 9])
+2020/11/11 21:41:18 	n2 -> Trinite - d'Estienne d'Orves ([12])
+2020/11/11 21:41:18 	n3 -> Madeleine ([8 12 14])
+2020/11/11 21:41:18 	n4 -> Madeleine ([8 12 14])
+2020/11/11 21:41:18 name: Jacques Bonsergent -> lines [5]
+2020/11/11 21:41:18 	n0 -> Gare de l'Est ([4 5])
+2020/11/11 21:41:18 	n1 -> Republique ([3 5 8 9 11])
+2020/11/11 21:41:18 name: Bercy -> lines [6 14]
+2020/11/11 21:41:18 	n0 -> Quai de la Gare ([6])
+2020/11/11 21:41:18 	n1 -> Dugommier ([6])
+2020/11/11 21:41:18 	n2 -> Gare de Lyon ([1 14])
+2020/11/11 21:41:18 	n3 -> Cour Saint-emilion ([14])
+2020/11/11 21:41:18 name: Mabillon -> lines [10]
+2020/11/11 21:41:18 	n0 -> Sevres - Babylone ([10 12])
+2020/11/11 21:41:18 	n1 -> Odeon ([4 10])
+2020/11/11 21:41:18 name: Pont de Levallois - Becon -> lines [3]
+2020/11/11 21:41:18 	n0 -> Anatole France ([3])
+2020/11/11 21:41:18 name: Nationale -> lines [6]
+2020/11/11 21:41:18 	n0 -> Place d'Italie ([5 6])
+2020/11/11 21:41:18 	n1 -> Chevaleret ([6])
+2020/11/11 21:41:18 name: Colonel Fabien -> lines [2]
+2020/11/11 21:41:18 	n0 -> Jaures ([2 5])
+2020/11/11 21:41:18 	n1 -> Belleville ([2 11])
+2020/11/11 21:41:18 name: Chateau d'Eau -> lines [4]
+2020/11/11 21:41:18 	n0 -> Gare de l'Est ([4 5])
+2020/11/11 21:41:18 	n1 -> Strasbourg - Saint-Denis ([4 8 9])
+2020/11/11 21:41:18 name: Place d'Italie -> lines [5 6]
+2020/11/11 21:41:18 	n0 -> Campo-Formio ([5])
+2020/11/11 21:41:18 	n1 -> Corvisart ([6])
+2020/11/11 21:41:18 	n2 -> Nationale ([6])
+2020/11/11 21:41:18 name: Porte Doree -> lines [8]
+2020/11/11 21:41:18 	n0 -> Michel Bizot ([8])
+2020/11/11 21:41:18 	n1 -> Porte de Charenton ([8])
+2020/11/11 21:41:18 name: Creteil - L'echat -> lines [8]
+2020/11/11 21:41:18 	n0 -> Maisons-Alfort - Les Juilliottes ([8])
+2020/11/11 21:41:18 	n1 -> Creteil - Universite ([8])
+2020/11/11 21:41:18 name: Mairie des Lilas -> lines [11]
+2020/11/11 21:41:18 	n0 -> Porte des Lilas ([11])
+2020/11/11 21:41:18 name: Trinite - d'Estienne d'Orves -> lines [12]
+2020/11/11 21:41:18 	n0 -> Notre-Dame-de-Lorette ([12])
+2020/11/11 21:41:18 	n1 -> Saint-Lazare ([3 12 14])
+2020/11/11 21:41:18 name: Bibliotheque François Mitterrand -> lines [14]
+2020/11/11 21:41:18 	n0 -> Cour Saint-emilion ([14])
+2020/11/11 21:41:18 	n1 -> Olympiades ([14])
+2020/11/11 21:41:18 name: Concorde -> lines [1 8 12]
+2020/11/11 21:41:18 	n0 -> Champs-elysees - Clemenceau ([1])
+2020/11/11 21:41:18 	n1 -> Tuileries ([1])
+2020/11/11 21:41:18 	n2 -> Invalides ([8])
+2020/11/11 21:41:18 	n3 -> Madeleine ([8 12 14])
+2020/11/11 21:41:18 	n4 -> Madeleine ([8 12 14])
+2020/11/11 21:41:18 	n5 -> Assemblee nationale ([12])
+2020/11/11 21:41:18 name: Chevaleret -> lines [6]
+2020/11/11 21:41:18 	n0 -> Nationale ([6])
+2020/11/11 21:41:18 	n1 -> Quai de la Gare ([6])
+2020/11/11 21:41:18 name: Balard -> lines [8]
+2020/11/11 21:41:18 	n0 -> Lourmel ([8])
+2020/11/11 21:41:18 name: Breguet - Sabin -> lines [5]
+2020/11/11 21:41:18 	n0 -> Richard-Lenoir ([5])
+2020/11/11 21:41:18 	n1 -> Bastille ([1 5 8])
+2020/11/11 21:41:18 name: Bobigny - Pantin - Raymond Queneau -> lines [5]
+2020/11/11 21:41:18 	n0 -> Bobigny - Pablo Picasso ([5])
+2020/11/11 21:41:18 	n1 -> eglise de Pantin ([5])
+2020/11/11 21:41:18 name: Porte de Pantin -> lines [5]
+2020/11/11 21:41:18 	n0 -> Hoche ([5])
+2020/11/11 21:41:18 	n1 -> Ourcq ([5])
+2020/11/11 21:41:18 name: Mirabeau ---- ---- eglise d'Auteuil -> lines [10]
+2020/11/11 21:41:18 	n0 -> Chardon-Lagache ---- ---- Michel-Ange - Auteuil ([10])
+2020/11/11 21:41:18 	n1 -> Javel - Andre Citroen ([10])
+2020/11/11 21:41:18 name: Olympiades -> lines [14]
+2020/11/11 21:41:18 	n0 -> Bibliotheque François Mitterrand ([14])
+2020/11/11 21:41:18 name: Bastille -> lines [1 5 8]
+2020/11/11 21:41:18 	n0 -> Saint-Paul ([1])
+2020/11/11 21:41:18 	n1 -> Gare de Lyon ([1 14])
+2020/11/11 21:41:18 	n2 -> Breguet - Sabin ([5])
+2020/11/11 21:41:18 	n3 -> Quai de la Rapee ([5])
+2020/11/11 21:41:18 	n4 -> Chemin Vert ([8])
+2020/11/11 21:41:18 	n5 -> Ledru-Rollin ([8])
+2020/11/11 21:41:18 name: Denfert-Rochereau -> lines [4 6]
+2020/11/11 21:41:18 	n0 -> Raspail ([4 6])
+2020/11/11 21:41:18 	n1 -> Mouton-Duvernet ([4])
+2020/11/11 21:41:18 	n2 -> Raspail ([4 6])
+2020/11/11 21:41:18 	n3 -> Saint-Jacques ([6])
+2020/11/11 21:41:18 name: Commerce -> lines [8]
+2020/11/11 21:41:18 	n0 -> Felix Faure ([8])
+2020/11/11 21:41:18 	n1 -> La Motte-Picquet - Grenelle ([6 8 10])
+2020/11/11 21:41:18 name: Miromesnil -> lines [9]
+2020/11/11 21:41:18 	n0 -> Saint-Philippe du Roule ([9])
+2020/11/11 21:41:18 	n1 -> Saint-Augustin ([9])
+2020/11/11 21:41:18 name: etienne Marcel -> lines [4]
+2020/11/11 21:41:18 	n0 -> Reaumur - Sebastopol ([3 4])
+2020/11/11 21:41:18 	n1 -> Les Halles ([4])
+2020/11/11 21:41:18 name: Saint-Placide -> lines [4]
+2020/11/11 21:41:18 	n0 -> Saint-Sulpice ([4])
+2020/11/11 21:41:18 	n1 -> Montparnasse - Bienvenue ([4 6 12])
+2020/11/11 21:41:18 name: Boissiere -> lines [6]
+2020/11/11 21:41:18 	n0 -> Kleber ([6])
+2020/11/11 21:41:18 	n1 -> Trocadero ([6 9])
+2020/11/11 21:41:18 name: Saint-Jacques -> lines [6]
+2020/11/11 21:41:18 	n0 -> Denfert-Rochereau ([4 6])
+2020/11/11 21:41:18 	n1 -> Glaciere ([6])
+2020/11/11 21:41:18 name: Porte de Montreuil -> lines [9]
+2020/11/11 21:41:18 	n0 -> Maraichers ([9])
+2020/11/11 21:41:18 	n1 -> Robespierre ([9])
+2020/11/11 21:41:18 name: Gare du Nord -> lines [4 5]
+2020/11/11 21:41:18 	n0 -> Barbes - Rochechouart ([2 4])
+2020/11/11 21:41:18 	n1 -> Gare de l'Est ([4 5])
+2020/11/11 21:41:18 	n2 -> Stalingrad ([2 5])
+2020/11/11 21:41:18 	n3 -> Gare de l'Est ([4 5])
+2020/11/11 21:41:18 name: Exelmans -> lines [9]
+2020/11/11 21:41:18 	n0 -> Porte de Saint-Cloud ([9])
+2020/11/11 21:41:18 	n1 -> Michel-Ange - Molitor ([9])
+2020/11/11 21:41:18 name: Saint-Ambroise -> lines [9]
+2020/11/11 21:41:18 	n0 -> Oberkampf ([5 9])
+2020/11/11 21:41:18 	n1 -> Voltaire ([9])
+2020/11/11 21:41:18 name: Mairie de Montreuil -> lines [9]
+2020/11/11 21:41:18 	n0 -> Croix de Chavaux ([9])
+2020/11/11 21:41:18 name: Marx Dormoy -> lines [12]
+2020/11/11 21:41:18 	n0 -> Porte de la Chapelle ([12])
+2020/11/11 21:41:18 	n1 -> Marcadet - Poissonniers ([4 12])
+2020/11/11 21:41:18 name: Madeleine -> lines [8 12 14]
+2020/11/11 21:41:18 	n0 -> Concorde ([1 8 12])
+2020/11/11 21:41:18 	n1 -> Opera ([3 8])
+2020/11/11 21:41:18 	n2 -> Saint-Lazare ([3 12 14])
+2020/11/11 21:41:18 	n3 -> Concorde ([1 8 12])
+2020/11/11 21:41:18 	n4 -> Saint-Lazare ([3 12 14])
+2020/11/11 21:41:18 	n5 -> Pyramides ([14])
+2020/11/11 21:41:18 name: Bourse -> lines [3]
+2020/11/11 21:41:18 	n0 -> Quatre-Septembre ([3])
+2020/11/11 21:41:18 	n1 -> Sentier ([3])
+2020/11/11 21:41:18 name: Rue Saint-Maur -> lines [3]
+2020/11/11 21:41:18 	n0 -> Parmentier ([3])
+2020/11/11 21:41:18 	n1 -> Pere Lachaise ([2 3])
+2020/11/11 21:41:18 name: Saint-Michel -> lines [4]
+2020/11/11 21:41:18 	n0 -> Cite ([4])
+2020/11/11 21:41:18 	n1 -> Odeon ([4 10])
+2020/11/11 21:41:18 name: Cambronne -> lines [6]
+2020/11/11 21:41:18 	n0 -> La Motte-Picquet - Grenelle ([6 8 10])
+2020/11/11 21:41:18 	n1 -> Sevres - Lecourbe ([6])
+2020/11/11 21:41:18 name: Picpus -> lines [6]
+2020/11/11 21:41:18 	n0 -> Bel-Air ([6])
+2020/11/11 21:41:18 	n1 -> Nation ([1 2 6 9])
+2020/11/11 21:41:18 name: Quatre-Septembre -> lines [3]
+2020/11/11 21:41:18 	n0 -> Opera ([3 8])
+2020/11/11 21:41:18 	n1 -> Bourse ([3])
+2020/11/11 21:41:18 name: Victor Hugo -> lines [2]
+2020/11/11 21:41:18 	n0 -> Porte Dauphine ([2])
+2020/11/11 21:41:18 	n1 -> Charles de Gaulle - etoile ([1 2 6])
+2020/11/11 21:41:18 name: Anvers -> lines [2]
+2020/11/11 21:41:18 	n0 -> Pigalle ([2 12])
+2020/11/11 21:41:18 	n1 -> Barbes - Rochechouart ([2 4])
+2020/11/11 21:41:18 name: Chateau Rouge -> lines [4]
+2020/11/11 21:41:18 	n0 -> Marcadet - Poissonniers ([4 12])
+2020/11/11 21:41:18 	n1 -> Barbes - Rochechouart ([2 4])
+2020/11/11 21:41:18 name: Michel-Ange - Auteuil -> lines [9]
+2020/11/11 21:41:18 	n0 -> Michel-Ange - Molitor ([9])
+2020/11/11 21:41:18 	n1 -> Jasmin ([9])
+2020/11/11 21:41:18 name: Franklin D. Roosevelt -> lines [1 9]
+2020/11/11 21:41:18 	n0 -> George V ([1])
+2020/11/11 21:41:18 	n1 -> Champs-elysees - Clemenceau ([1])
+2020/11/11 21:41:18 	n2 -> Alma - Marceau ([9])
+2020/11/11 21:41:18 	n3 -> Saint-Philippe du Roule ([9])
+2020/11/11 21:41:18 name: Porte de Charenton -> lines [8]
+2020/11/11 21:41:18 	n0 -> Porte Doree ([8])
+2020/11/11 21:41:18 	n1 -> Liberte ([8])
+2020/11/11 21:41:18 name: Bobigny - Pablo Picasso -> lines [5]
+2020/11/11 21:41:18 	n0 -> Bobigny - Pantin - Raymond Queneau ([5])
+2020/11/11 21:41:18 name: Cluny - La Sorbonne -> lines [10]
+2020/11/11 21:41:18 	n0 -> Odeon ([4 10])
+2020/11/11 21:41:18 	n1 -> Maubert - Mutualite ([10])
+2020/11/11 21:41:18 name: Solferino -> lines [12]
+2020/11/11 21:41:18 	n0 -> Assemblee nationale ([12])
+2020/11/11 21:41:18 	n1 -> Rue du Bac ([12])
+2020/11/11 21:41:18 name: Barbes - Rochechouart -> lines [2 4]
+2020/11/11 21:41:18 	n0 -> Anvers ([2])
+2020/11/11 21:41:18 	n1 -> La Chapelle ([2])
+2020/11/11 21:41:18 	n2 -> Chateau Rouge ([4])
+2020/11/11 21:41:18 	n3 -> Gare du Nord ([4 5])
+2020/11/11 21:41:18 name: Reuilly - Diderot -> lines [1 8]
+2020/11/11 21:41:18 	n0 -> Gare de Lyon ([1 14])
+2020/11/11 21:41:18 	n1 -> Nation ([1 2 6 9])
+2020/11/11 21:41:18 	n2 -> Faidherbe - Chaligny ([8])
+2020/11/11 21:41:18 	n3 -> Montgallet ([8])
+2020/11/11 21:41:18 name: Michel Bizot -> lines [8]
+2020/11/11 21:41:18 	n0 -> Daumesnil ([6 8])
+2020/11/11 21:41:18 	n1 -> Porte Doree ([8])
+2020/11/11 21:41:18 name: Segur -> lines [10]
+2020/11/11 21:41:18 	n0 -> La Motte-Picquet - Grenelle ([6 8 10])
+2020/11/11 21:41:18 	n1 -> Duroc ([10])
+2020/11/11 21:41:18 name: Abbesses -> lines [12]
+2020/11/11 21:41:18 	n0 -> Lamarck - Caulaincourt ([12])
+2020/11/11 21:41:18 	n1 -> Pigalle ([2 12])
+2020/11/11 21:41:18 name: Saint-Paul -> lines [1]
+2020/11/11 21:41:18 	n0 -> Hotel de Ville ([1 11])
+2020/11/11 21:41:18 	n1 -> Bastille ([1 5 8])
+2020/11/11 21:41:18 name: Ourcq -> lines [5]
+2020/11/11 21:41:18 	n0 -> Porte de Pantin ([5])
+2020/11/11 21:41:18 	n1 -> Laumiere ([5])
