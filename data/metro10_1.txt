@@ -1,8 +1,8 @@
 Boulogne - Pont de Saint-Cloud
 Boulogne - Jean Jaures
-Michel-Ange - Molitor ---- ---- Porte d'Auteuil
-Chardon-Lagache ---- ---- Michel-Ange - Auteuil
-Mirabeau ---- ---- eglise d'Auteuil
+Michel-Ange - Molitor
+Chardon-Lagache
+Mirabeau
 Javel - Andre Citroen
 Charles Michels
 Avenue Emile Zola
