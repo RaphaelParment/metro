@@ -4,6 +4,7 @@ import (
 	"context"
 	"github.com/RaphaelParment/metro/loader/domain"
 	"github.com/RaphaelParment/metro/loader/infrastructure"
+	"github.com/RaphaelParment/metro/loader/infrastructure/store/dgraph"
 	"log"
 	"os"
 )
@@ -20,7 +21,11 @@ func run() error {
 	n.Stations = make(map[string]*domain.Station)
 
 	l := new(infrastructure.FileLoader)
-	regularLines := []int{1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 14}
+	regularLines := []string{
+		"1", "2", "3", "3bis", "4", "5", "6", "7", "7bis_1", "7bis_2",
+		"8", "9", "10_1", "10_2", "11", "12", "13", "14",
+	}
+
 	for _, line := range regularLines {
 		if err := l.Load(context.TODO(), n, line); err != nil {
 			log.Printf("fialed to load line %d; %v", line, err)
@@ -33,6 +38,12 @@ func run() error {
 		for i, neighbour := range station.Neighbours {
 			log.Printf("\tn%d -> %s (%v)", i, neighbour.Name, neighbour.Lines)
 		}
+	}
+
+	err := dgraph.Load(n)
+	if err != nil {
+		log.Printf("failed to load dgraph; %v", err)
+		return err
 	}
 
 	return nil
